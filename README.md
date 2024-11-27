@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7111997
+- 👋 Hi, I’m Riya Rani
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning ...php
 - 💞️ I’m looking to collaborate on ...google 
